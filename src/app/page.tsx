@@ -1,7 +1,7 @@
 import Image from "next/image";
 
 async function getPreFetch() {
-  console.log("메인 컴포넌트 초기 렌더 전에 수행할 작업!");
+  // 루트 컴포넌트 렌더 전 수행할 작업
 }
 
 export default async function Home() {
